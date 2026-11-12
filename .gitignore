@@ -1,0 +1,21 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Downloaded datasets
+data/*.csv
+
+# Trained machine learning models
+models/*.joblib
+models/*.pkl
+
+# Pytest cache
+.pytest_cache/
+
